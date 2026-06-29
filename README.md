@@ -1,6 +1,6 @@
 <div align="center">
 
-  [ATA](https://sanctuent.atabook.org/)   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=frostingpetals&color=c34f53&style=plastic&label=pokemons)
+ ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=frostingpetals&color=c34f53&style=plastic&label=pokemons)
 
 </div>
 <div align="center">
